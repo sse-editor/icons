@@ -1,4 +1,4 @@
-name: "myrelease"
+name: SSE Release
 on:
   workflow_dispatch:
 
@@ -14,8 +14,5 @@ jobs:
         uses: ntltd/release-generator@master
         with:
           app: ${{ env.APP }}
-          baseTag: my-production-deployed-tag
-          releaseName: ${{ env.APP }} ${{ steps.bump_version.outputs.version }}
-          releaseTag: ${{ steps.bump_version.outputs.tag }}
           templatePath: RELEASE_DRAFT/default.md
           token: ${{ github.token }}
