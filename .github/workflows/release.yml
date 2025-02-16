@@ -1,0 +1,21 @@
+name: "myrelease"
+on:
+  workflow_dispatch:
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    env:
+      APP: SSE Editor Icon
+    steps:
+      - name: Checkout git repository
+        uses: actions/checkout@master
+      - name: Create Release
+        uses: ntltd/release-generator@master
+        with:
+          app: ${{ env.APP }}
+          baseTag: my-production-deployed-tag
+          releaseName: ${{ env.APP }} ${{ steps.bump_version.outputs.version }}
+          releaseTag: ${{ steps.bump_version.outputs.tag }}
+          templatePath: RELEASE_DRAFT/default.md
+          token: ${{ github.token }}
