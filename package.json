@@ -4,7 +4,8 @@
   "main": "dist/index.umd.js",
   "scripts": {
     "build": "npm run generate && vite build",
-    "generate": "node bin/generate.js"
+    "generate": "node bin/generate.js",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
