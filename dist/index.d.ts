@@ -49,7 +49,7 @@ export declare const IconLinkedin: string;
 export declare const IconListBulleted: string;
 export declare const IconListNumbered: string;
 export declare const IconLoader: string;
-export declare const IconLowerAplha: string;
+export declare const IconLowerAlpha: string;
 export declare const IconLowerRoman: string;
 export declare const IconMarker: string;
 export declare const IconMenuSmall: string;

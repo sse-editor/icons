@@ -51,7 +51,7 @@
 | ![IconListBulleted](dist\icons\IconListBulleted.svg) | `IconListBulleted` |
 | ![IconListNumbered](dist\icons\IconListNumbered.svg) | `IconListNumbered` |
 | ![IconLoader](dist\icons\IconLoader.svg) | `IconLoader` |
-| ![IconLowerAplha](dist\icons\IconLowerAplha.svg) | `IconLowerAplha` |
+| ![IconLowerAlpha](dist\icons\IconLowerAlpha.svg) | `IconLowerAlpha` |
 | ![IconLowerRoman](dist\icons\IconLowerRoman.svg) | `IconLowerRoman` |
 | ![IconMarker](dist\icons\IconMarker.svg) | `IconMarker` |
 | ![IconMenuSmall](dist\icons\IconMenuSmall.svg) | `IconMenuSmall` |

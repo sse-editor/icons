@@ -48,12 +48,9 @@ class IconsGenerator {
   run() {
     this.recreateOutputDirectory();
     this.createOutputScript();
-
     this.getSvgFiles();
     this.processSvgFiles();
-
     this.updateReadme();
-
     this.showReport();
   }
 
@@ -62,7 +59,6 @@ class IconsGenerator {
    */
   recreateOutputDirectory() {
     console.log("🗄 Recreating output directory");
-
     fs.rmSync(this.OUTPUT_DIST_DIR, { recursive: true, force: true });
     fs.mkdirSync(this.OUTPUT_ICONS_DIR, { recursive: true });
   }
@@ -101,7 +97,6 @@ class IconsGenerator {
        * Generate icon's export name
        */
       const exportName = this.generateIconExportName(filename);
-
       console.log(`${exportName}`);
 
       /**

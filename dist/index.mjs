@@ -51,7 +51,7 @@ export {
   q as IconListBulleted,
   K as IconListNumbered,
   O as IconLoader,
-  Y as IconLowerAplha,
+  Y as IconLowerAlpha,
   _ as IconLowerRoman,
   $ as IconMarker,
   t1 as IconMenu,
