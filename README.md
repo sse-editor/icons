@@ -11,6 +11,7 @@
 | ![IconBold](dist\icons\IconBold.svg) | `IconBold` |
 | ![IconBracketsVertical](dist\icons\IconBracketsVertical.svg) | `IconBracketsVertical` |
 | ![IconBrackets](dist\icons\IconBrackets.svg) | `IconBrackets` |
+| ![IconChangeCase](dist\icons\IconChangeCase.svg) | `IconChangeCase` |
 | ![IconCheck](dist\icons\IconCheck.svg) | `IconCheck` |
 | ![IconChecklist](dist\icons\IconChecklist.svg) | `IconChecklist` |
 | ![IconChevronDown](dist\icons\IconChevronDown.svg) | `IconChevronDown` |
@@ -20,6 +21,7 @@
 | ![IconClipboard](dist\icons\IconClipboard.svg) | `IconClipboard` |
 | ![IconCollapse](dist\icons\IconCollapse.svg) | `IconCollapse` |
 | ![IconColor](dist\icons\IconColor.svg) | `IconColor` |
+| ![IconColumn](dist\icons\IconColumn.svg) | `IconColumn` |
 | ![IconCopy](dist\icons\IconCopy.svg) | `IconCopy` |
 | ![IconCross](dist\icons\IconCross.svg) | `IconCross` |
 | ![IconCurlyBrackets](dist\icons\IconCurlyBrackets.svg) | `IconCurlyBrackets` |
