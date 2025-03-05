@@ -7,6 +7,7 @@
 | ![IconAlignJustify](dist\icons\IconAlignJustify.svg) | `IconAlignJustify` |
 | ![IconAlignLeft](dist\icons\IconAlignLeft.svg) | `IconAlignLeft` |
 | ![IconAlignRight](dist\icons\IconAlignRight.svg) | `IconAlignRight` |
+| ![IconAnnotation](dist\icons\IconAnnotation.svg) | `IconAnnotation` |
 | ![IconAsterisk](dist\icons\IconAsterisk.svg) | `IconAsterisk` |
 | ![IconBold](dist\icons\IconBold.svg) | `IconBold` |
 | ![IconBracketsVertical](dist\icons\IconBracketsVertical.svg) | `IconBracketsVertical` |
@@ -19,6 +20,7 @@
 | ![IconChevronRight](dist\icons\IconChevronRight.svg) | `IconChevronRight` |
 | ![IconChevronUp](dist\icons\IconChevronUp.svg) | `IconChevronUp` |
 | ![IconClipboard](dist\icons\IconClipboard.svg) | `IconClipboard` |
+| ![IconClose](dist\icons\IconClose.svg) | `IconClose` |
 | ![IconCollapse](dist\icons\IconCollapse.svg) | `IconCollapse` |
 | ![IconColor](dist\icons\IconColor.svg) | `IconColor` |
 | ![IconColumn](dist\icons\IconColumn.svg) | `IconColumn` |
